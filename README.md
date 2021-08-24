@@ -23,6 +23,7 @@ You can also use a shallow clone to download just the latest revision:
 
 ```
 git clone --depth 1 https://github.com/flutter/samples.git
+smartide start
 ```
 
 ## Interested in contributing?
